@@ -1,46 +1,42 @@
 {
   "main": {
-    "name":"Nordic-Giant Project",
-    "description":"I am a web development engineer and I use react and vue.js to develop pages. This project is a resume template that can be used as the project home page or resume page",
+    "name":"Griffin Clark",
+    "description":"I am a third year Queen's University student studying Engineering Physics with a specialization in Computing. My interests include ",
     "image":"profilepic.jpg",
     "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
-    "github":"https://github.com/nordicgiant2/react-nice-resume",
-    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "contactmessage":"I love meeting new people and gaining new connections! Shoot me a message to start a conversation.",
+    "email": "griffinclark10@gmail.com",
+    "phone": "(506) 476-2939",
+    "github":"https://github.com/griffinclark10",
+    "project":"https://www.linkedin.com/in/griffin-clark-a02513146/",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"505 Johnson St.",
+      "city":"Kingston",
+      "state":"Ontario",
+      "zip": "K7L 1Z7"
     },
     "website": "http://www.timbakerdev.com",
     "resumedownload":"http://timbakerdev.com",
     "social":[
       {
         "name":"facebook",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://www.facebook.com/griffin.stephensclark/",
         "className":"fa fa-facebook"
       },
-      {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
+      
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/griffin-clark-a02513146/",
         "className":"fa fa-linkedin"
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
+        "url":"https://www.instagram.com/griffin.cclark/?hl=en",
         "className":"fa fa-instagram"
       },
       {
         "name":"github",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://github.com/griffinclark10",
         "className":"fa fa-github"
       }
     ]
@@ -49,10 +45,10 @@
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2017",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Queen's University",
+        "degree":"Bachelors of Engineering Physics, Computing Specialization",
+        "graduated":"April 2023",
+        "description":"After a year of studying physics in a general BSc degree, I chose to transfer to an Engineering degree which allows me to work in a team setting, something I much prefer over individual work. Pure Engineering physics is a niche degree, not being offered at most schools, but it allows me to combine my interest in theoretical physics (Quantum mechanics, Electromagnetism Classical physics, etc.) with a new found love for computing through the EngPhys specialization option. This has allowed me to take classes such as Data Structures and Algorithms, "
       },
       {
         "school":"School #1 Maybe College?",
