@@ -1,10 +1,10 @@
 {
   "main": {
     "name":"Griffin Clark",
-    "description":"I am a third year Queen's University student studying Engineering Physics with a specialization in Computing. My interests include ",
+    "description":"I am a third year Queen's University student studying Engineering Physics with a specialization in Computing. My interests include AI/ML, quantum computing, data aggregation/manipulation and mathematical modelling. Check out my experience and work below",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"I love meeting new people and gaining new connections! Shoot me a message to start a conversation.",
+    "bio":"Born in Denver, Colorado and Raised in Fredericton, a small town on the east coast of Canada, I have been raised to love the outdoors! Hiking, running, skiing and scuba diving are a few of my favourite outdoor activities that I have been able to do on my many around the world. Aside from staying active and being outdoors, I love to eat!! There is nothing better than discovering a new favourite restaurant, whether thats in my college town of Kingston, Ontario or on the other side of the world. After learning to code in my first year of Uni, a new interest of mine lies in data science and mathematical modelling. I am currently searching for an internship in the tech industry and my dual citizenship allows me to work legally in both the USA and Canada!",
+    "contactmessage":"I love meeting new people and gaining new connections. Shoot me a message to start a conversation!",
     "email": "griffinclark10@gmail.com",
     "phone": "(506) 476-2939",
     "github":"https://github.com/griffinclark10",
@@ -23,7 +23,6 @@
         "url":"https://www.facebook.com/griffin.stephensclark/",
         "className":"fa fa-facebook"
       },
-      
       {
         "name":"linkedin",
         "url":"https://www.linkedin.com/in/griffin-clark-a02513146/",
@@ -42,63 +41,54 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"Softwares/Languages that I have worked with in the past!",
     "education":[
       {
         "school":"Queen's University",
         "degree":"Bachelors of Engineering Physics, Computing Specialization",
         "graduated":"April 2023",
         "description":"After a year of studying physics in a general BSc degree, I chose to transfer to an Engineering degree which allows me to work in a team setting, something I much prefer over individual work. Pure Engineering physics is a niche degree, not being offered at most schools, but it allows me to combine my interest in theoretical physics (Quantum mechanics, Electromagnetism Classical physics, etc.) with a new found love for computing through the EngPhys specialization option. This has allowed me to take classes such as Data Structures and Algorithms, "
-      },
-      {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2013",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
       }
+      
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2018 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"McDonald Institute",
+        "title":"Research and Outreach Fellow",
+        "years":"May 2021 - September 2021",
+        "description":"Dark Matter was first theorized by Zwicky in 1933 and ever since, hundreds of thousands of physicists have dedicated much time and effort to discover this elusive mass. This summer, I joined that list. Using Queen's supercomputer server, I leveraged software (GIZMO, DICE, yt) to model the formation of stars and Galaxies to shed light on dark matter's effect on these processes. The outreach portion of my position came in the form of the research, creation and presentation of a college-length course on astrophysics, taught to a group of 7 high school students over the course of 6 weeks."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2017 - February 2018",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Queen's University",
+        "title":"Teaching Assistant for PHYS 104/106",
+        "years":"September 2020 - May 2021",
+        "description":"In my first year at Queen's, I took a physics couse that would ultimately leed me to spcialize my education in physics. This past year, I was able to assist teaching and marking in that same class. Each Wednesday, I held a 3-hour virtual help session for students with questions about the weekly assignment or general course content. I also helped with the marking of weekly assignments through the use of crowdmark, marking up to 150 assignments and getting grades back to students within 2 days of submission. "
       }
     ],
     "skills":[
       {
         "name":"Python",
-        "level":"60%"
+        "level":"80%"
       },
       {
-        "name":"VueJs",
+        "name":"Java",
         "level":"55%"
       },
       {
-        "name":"ReactJs",
-        "level":"50%"
+        "name":"C",
+        "level":"45%"
       },
       {
-        "name":"CSS",
-        "level":"90%"
+        "name":"Linux",
+        "level":"70%"
       },
       {
-        "name":"PHP",
-        "level":"80%"
+        "name":"GIZMO",
+        "level":"60%"
       },
       {
-        "name":"Swift",
-        "level":"50%"
-      },
-      {
-        "name":"JAVA",
-        "level":"80%"
+        "name":"Git",
+        "level":"45%"
       }
     ]
   },
@@ -115,66 +105,6 @@
         "category":"(offline now) A fighting gear company I started",
         "image":"02.jpg",
         "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
-      },
-      {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
-      },
-      {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"01.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"02.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
-      },
-      {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
       }
     ]
   }
