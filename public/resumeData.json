@@ -10,13 +10,11 @@
     "github":"https://github.com/griffinclark10",
     "project":"https://www.linkedin.com/in/griffin-clark-a02513146/",
     "address":{
-      "street":"505 Johnson St.",
       "city":"Kingston",
-      "state":"Ontario",
-      "zip": "K7L 1Z7"
+      "state":"Ontario"
     },
     "website": "http://www.griffinsclark.com",
-    "resumedownload":"http://timbakerdev.com",
+    "resumedownload":"GriffinClark_Resume2021-08.pdf",
     "social":[
       {
         "name":"facebook",
