@@ -1,0 +1,115 @@
+{
+  "main": {
+    "name":"Griffin Clark",
+    "description":"I am a third year Queen's University student studying Engineering Physics with a specialization in Computing. My interests include AI/ML, quantum computing, data aggregation/manipulation and mathematical modelling. Check out my experience and work below",
+    "image":"profilepic.jpg",
+    "bio":"Born in Denver, Colorado and Raised in Fredericton, a small town on the east coast of Canada, I have been raised to love the outdoors! Hiking, running, skiing and scuba diving are a few of my favourite outdoor activities that I have been able to do on my many around the world. Aside from staying active and being outdoors, I love to eat!! There is nothing better than discovering a new favourite restaurant, whether thats in my college town of Kingston, Ontario or on the other side of the world. After learning to code in my first year of Uni, a new interest of mine lies in data science and mathematical modelling. I am currently searching for an internship in the tech industry and my dual citizenship allows me to work legally in both the USA and Canada!",
+    "contactmessage":"I love meeting new people and gaining new connections. Shoot me a message to start a conversation!",
+    "email": "griffinclark10@gmail.com",
+    "phone": "(506) 476-2939",
+    "github":"https://github.com/griffinclark10",
+    "project":"https://www.linkedin.com/in/griffin-clark-a02513146/",
+    "address":{
+      "city":"Kingston",
+      "state":"Ontario"
+    },
+    "website": "http://www.griffinsclark.com",
+    "resumedownload":"GriffinClark_Resume2021-08.pdf",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/griffin.stephensclark/",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/griffin-clark-a02513146/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/griffin.cclark/?hl=en",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/griffinclark10",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Softwares/Languages that I have worked with in the past!",
+    "education":[
+      {
+        "school":"Queen's University",
+        "degree":"Bachelors of Engineering Physics, Computing Specialization",
+        "graduated":"April 2023",
+        "description":"After a year of studying physics in a general BSc degree, I chose to transfer to an Engineering degree which allows me to work in a team setting, something I much prefer over individual work. Pure Engineering physics is a niche degree, not being offered at most schools, but it allows me to combine my interest in theoretical physics (Quantum mechanics, Electromagnetism Classical physics, etc.) with a new found love for computing through the EngPhys specialization option. This has allowed me to take classes such as Data Structures and Algorithms, "
+      }
+      
+    ],
+    "work":[
+      {
+        "company":"McDonald Institute",
+        "title":"Research and Outreach Fellow",
+        "years":"May 2021 - September 2021",
+        "description":"Dark Matter was first theorized by Zwicky in 1933 and ever since, hundreds of thousands of physicists have dedicated much time and effort to discover this elusive mass. This summer, I joined that list. Using Queen's supercomputer server, I leveraged software (GIZMO, DICE, yt) to model the formation of stars and Galaxies to shed light on dark matter's effect on these processes. The outreach portion of my position came in the form of the research, creation and presentation of a college-length course on astrophysics, taught to a group of 7 high school students over the course of 6 weeks."
+      },
+      {
+        "company":"Queen's University",
+        "title":"Teaching Assistant for PHYS 104/106",
+        "years":"September 2020 - May 2021",
+        "description":"In my first year at Queen's, I took a physics couse that would ultimately leed me to spcialize my education in physics. This past year, I was able to assist teaching and marking in that same class. Each Wednesday, I held a 3-hour virtual help session for students with questions about the weekly assignment or general course content. I also helped with the marking of weekly assignments through the use of crowdmark, marking up to 150 assignments and getting grades back to students within 2 days of submission. "
+      }
+    ],
+    "skills":[
+      {
+        "name":"Python",
+        "level":"80%"
+      },
+      {
+        "name":"Java",
+        "level":"55%"
+      },
+      {
+        "name":"C",
+        "level":"45%"
+      },
+      {
+        "name":"Linux",
+        "level":"70%"
+      },
+      {
+        "name":"GIZMO",
+        "level":"60%"
+      },
+      {
+        "name":"Git",
+        "level":"45%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "short_description":"My Travel Blog for my post-university travels",
+        "description":"",
+        "image":"01.jpg",
+        "url":"https://www.canadianwanderlust.com",
+        "button_label":"Check out the paper",
+        "button_type":"document"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "short_description":"(offline now) A fighting gear company I started",
+        "description":"this is a project and this project was very fun and cool and I learned so much with it because it was very interesting and fun",
+        "image":"02.jpg",
+        "url":"http://www.timbakerdev.com",
+        "button_label":"Check out the GitHub",
+        "button_type":"github"
+      }
+    ]
+  }
+}
