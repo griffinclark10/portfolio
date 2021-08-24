@@ -94,15 +94,21 @@
     "projects": [
       {
         "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
+        "short_description":"My Travel Blog for my post-university travels",
+        "description":"",
         "image":"01.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "url":"https://www.canadianwanderlust.com",
+        "button_label":"Check out the paper",
+        "button_type":"document"
       },
       {
         "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
+        "short_description":"(offline now) A fighting gear company I started",
+        "description":"this is a project and this project was very fun and cool and I learned so much with it because it was very interesting and fun",
         "image":"02.jpg",
-        "url":"http://www.timbakerdev.com"
+        "url":"http://www.timbakerdev.com",
+        "button_label":"Check out the GitHub",
+        "button_type":"github"
       }
     ]
   }
