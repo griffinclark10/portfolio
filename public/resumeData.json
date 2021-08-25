@@ -95,7 +95,7 @@
       {
         "title":"A Tweet A Stock",
         "short_description":"Stock projection AI model using sentiment analysis of public tweets about the company.",
-        "description":"test",
+        "description":"On January 28th, 2021, Gamestop stock reached a peak trading price of 500$ a share. This 30 fold increase started from amateur investors betting against short sellers on r/wallstreetbets and it quickly took over social media, causing the stock price to soar. A group of us wanted to see if there was a real correlation between the public opinion of a company and its stock price. We chose to make a model after Tesla and to use Tweets about the company to gauge the public sentiment. I chose to bypass the Twitter API in order to access 1M+ historical tweets to ensure a large training dataset. I then applied an centiment analysis to each tweet ans averaged out the sentiment between each trading period. We then trained both a KNN and RFF models to predict the direction of the stock price to 90% accuracy. Future goals include making some sort of chrome extension and aggregating data from other social media sites. ",
         "image":"Users/griffinclark/portfolio/public/images/portfolio/stock.jpeg",
         "url":"https://github.com/18AnirudhaV/ATweetAStock.git",
         "button_label":"Check out the GitHub!",
