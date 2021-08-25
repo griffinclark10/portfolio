@@ -93,22 +93,22 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "short_description":"My Travel Blog for my post-university travels",
+        "title":"A Tweet A Stock",
+        "short_description":"Stock projection AI model using sentiment analysis of public tweets about the company.",
         "description":"test",
-        "image":"01.jpg",
-        "url":"https://www.canadianwanderlust.com",
-        "button_label":"Check out the paper",
-        "button_type":"document"
+        "image":"stock.jpg",
+        "url":"https://github.com/18AnirudhaV/ATweetAStock.git",
+        "button_label":"Check out the GitHub!",
+        "button_type":"github"
       },
       {
-        "title":"Fury Fighting Gear",
-        "short_description":"(offline now) A fighting gear company I started",
+        "title":"Helping Hand",
+        "short_description":"AI model that reads and translates sign language in real time using NLP.",
         "description":"this is a project and this project was very fun and cool and I learned so much with it because it was very interesting and fun",
-        "image":"02.jpg",
-        "url":"http://www.timbakerdev.com",
-        "button_label":"Check out the GitHub",
-        "button_type":"github"
+        "image":"ASL.jpg",
+        "url":"HelpingHand.pdf",
+        "button_label":"Check out the paper!",
+        "button_type":"document"
       }
     ]
   }
