@@ -96,7 +96,7 @@
         "title":"A Tweet A Stock",
         "short_description":"Stock projection AI model using sentiment analysis of public tweets about the company.",
         "description":"test",
-        "image":"stock.jpg",
+        "image":"images/portfolio/stock.jpg",
         "url":"https://github.com/18AnirudhaV/ATweetAStock.git",
         "button_label":"Check out the GitHub!",
         "button_type":"github"
@@ -105,7 +105,7 @@
         "title":"Helping Hand",
         "short_description":"AI model that reads and translates sign language in real time using NLP.",
         "description":"this is a project and this project was very fun and cool and I learned so much with it because it was very interesting and fun",
-        "image":"ASL.jpg",
+        "image":"images/portfolio/ASL.jpg",
         "url":"HelpingHand.pdf",
         "button_label":"Check out the paper!",
         "button_type":"document"
