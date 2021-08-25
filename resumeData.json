@@ -96,7 +96,7 @@
         "title":"A Tweet A Stock",
         "short_description":"Stock projection AI model using sentiment analysis of public tweets about the company.",
         "description":"test",
-        "image":"images/portfolio/stock.jpeg",
+        "image":"Users/griffinclark/portfolio/public/images/portfolio/stock.jpeg",
         "url":"https://github.com/18AnirudhaV/ATweetAStock.git",
         "button_label":"Check out the GitHub!",
         "button_type":"github"
