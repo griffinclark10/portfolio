@@ -104,7 +104,7 @@
       {
         "title":"Helping Hand",
         "short_description":"AI model that reads and translates sign language in real time using NLP.",
-        "description":"this is a project and this project was very fun and cool and I learned so much with it because it was very interesting and fun",
+        "description":"A more accessible world is a more connected world, which is why a couple students and I wanted to create a real time sign language transaltor. This project focused heavily on NLP and used a public training and testing dataset of ASL letters. The 93% accurate CNN was made using popular machine learning modules Keras and TensorFlow. We chose the CNN as this type of model typically works well with image classification. Finally, we made an interface using Javascript and CSS that would accept live video and translate in real time. ",
         "image":"images/portfolio/ASL.jpeg",
         "url":"HelpingHand.pdf",
         "button_label":"Check out the paper!",
